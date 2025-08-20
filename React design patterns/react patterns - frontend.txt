@@ -1,0 +1,5 @@
+React patterns definition = 
+
+established solutions and best practices for common problems encountered when building user interfaces with React. 
+
+They focus on structuring components, managing state, handling data flow, and promoting reusability and maintainability.

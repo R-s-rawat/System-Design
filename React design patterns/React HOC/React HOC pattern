@@ -1,0 +1,22 @@
+// Problem:  Understanding React Hooks with Higher-Order Components 
+
+// You are given a React application consisting of multiple components that demonstrate the use of React Hooks and Higher-Order Components (HOCs).
+
+The application includes two main components, Comp1 and Comp2, which display their width using a HOC named WithDimension. 
+
+Your task is to understand how to use React Hooks to manage state and references, and how to create and utilize Higher-Order Components to add additional functionality to existing components.
+
+####################
+Components Overview
+####################
+App Component: The main component that renders Comp1 and Comp2.
+Comp1 Component: A functional component wrapped with WithDimension HOC that displays its width.
+Comp2 Component: Another functional component wrapped with WithDimension HOC that displays its width.
+WithDimension HOC: A Higher-Order Component that uses React Hooks to pass dimensions (width and height) as props to the wrapped component.
+
+############
+Objective
+############
+Understand how to use useRef to access a DOM element.
+Learn to use useEffect to perform side effects in functional components.
+Implement a Higher-Order Component to extend the functionality of existing components by injecting additional props.
