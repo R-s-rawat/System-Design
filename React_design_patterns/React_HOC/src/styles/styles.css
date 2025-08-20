@@ -13,3 +13,8 @@ img {
   height: 150px;
   width: 250px;
 }
+
+body {
+  color: black;
+  background: white;
+}
